@@ -138,6 +138,7 @@
     <Compile Include="Configuration\CookieSecureMode.cs" />
     <Compile Include="Configuration\DiscoveryOptions.cs" />
     <Compile Include="Configuration\EventsOptions.cs" />
+    <Compile Include="Configuration\Hosting\AutofacModule.cs" />
     <Compile Include="Configuration\Hosting\ClientListCookie.cs" />
     <Compile Include="Configuration\InputLengthRestrictions.cs" />
     <Compile Include="Configuration\IAuthenticationSessionStoreProvider.cs" />
